@@ -1,0 +1,13 @@
+.todoList_outer{
+    border: 1px solid;
+    width: 90%;
+    margin: 0 auto 1em auto;
+    text-align: left;
+    padding: 0.5em 1em;
+}
+.todoList_outer p{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

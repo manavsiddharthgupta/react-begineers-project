@@ -1,0 +1,36 @@
+.modal{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+}
+
+.modal_header{
+    width: 100%;
+    background-color: #d65656;
+    padding: 1em;
+    color: white;
+}
+.modal_main{
+    background-color: white;
+    padding: 2em 1em;
+    margin: 0;
+
+}
+.modal_main p{
+    margin: 0;
+}
+.modal_footer{
+    padding: 1em 1em 0.5em 1em;
+    background-color: #d65656;
+    text-align: end;
+}
+.setmodal{
+    background-color: rgba(0, 0, 0, 0.781);
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}

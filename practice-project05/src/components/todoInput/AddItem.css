@@ -1,0 +1,18 @@
+.addItemCard input{
+    width: 60%;
+    font-size: 1.5em;
+    padding: 0.2em 0.8em;
+    border: none;
+    border-radius: 20px;
+    background-color: #093c7b;
+    color: white;
+}
+.addItemCard input.invalid{
+    background-color: #f3a5a5;
+}
+
+.btntype{
+    display: block;
+    margin: 2em auto 0em auto;
+    font-size: 1em;
+}
